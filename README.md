@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 - Open-Sora Team
 
 ## 📖 Education
-- M.S. in Computer Science, 2022-2025
+- M.S. in Computer Science, 2024-2026
 
     [National University of Singapore](https://www.nus.edu.sg/), Singapore
 
-- B.E. in Telecommunication Engineering with Management, 2018-2022
+- B.E. in Telecommunication Engineering with Management, 2020-2024
 
     [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China
 
