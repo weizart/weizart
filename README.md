@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MqLeet/Mqleet">
+<a href="https://github.com/weizart/weizart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weizart&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Weizart's GitHub Stats" height="150"/>
 </a>
 
-<a href="https://github.com/MqLeet/Mqleet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=weizart&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Weizart's GitHub Stats" height="150"/>
+<a href="https://github.com/weizart/weizart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=weizart&show_icons=true&rank_icon=github&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Weizart's GitHub Stats" height="150"/>
 </a>
