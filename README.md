@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ziang</h1>
-<h3 align="center">A passionate big data engineer from China</h3>
+<h3 align="center">A passionate software engineer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weizart&label=Profile%20views&color=0e75b6&style=flat" alt="weizart" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weizart" alt="weizart" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weizart&rank=-C" alt="weizart" /></a> </p>
 
 <h3 align="left">Connect with me: <a href="mailto:wei_ziang@outlook.com" target="blank">wei_ziang@outlook.com</a> </h3>
 <p align="left">
