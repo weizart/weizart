@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 - 💻 I'm now a master of computing student at School of Computing, National University of Singapore.
-- 📖 My current research interests lie in deep generative models. I am also interested in vision-language models.
+- 📖 My current research interests lie in big data technology. I am also interested in video generation models.
 
 ## 👨🏻‍💻 Recently working on:
 
