@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weizart" alt="weizart" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="mailto:wei_ziang@outlook.com" target="blank">**wei_ziang@outlook.com**</a> </h3>
 <p align="left">
 <a href="https://linkedin.com/in/ziangwei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziangwei" height="30" width="40" /></a>
 </p>
