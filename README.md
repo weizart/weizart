@@ -5,12 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weizart" alt="weizart" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weizart&show_icons=true&locale=en" alt="weizart" /></p>
-
 - 📫 How to reach me **wei_ziang@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
-- 📫 Reach my email: **wei_ziang@outlook.com**
+<h3 align="left">Connect with me: **wei_ziang@outlook.com**</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ziangwei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziangwei" height="30" width="40" /></a>
 </p>
@@ -20,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weizart&show_icons=true&locale=en&layout=compact" alt="weizart" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weizart&show_icons=true&locale=en" alt="weizart" /></p>
+[//]: <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weizart&show_icons=true&locale=en" alt="weizart" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weizart&" alt="weizart" /></p>
