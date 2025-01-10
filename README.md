@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziang</h1>
-<h3 align="center">A passionate software engineer @ NUS</h3>
+<h3 align="center">Master of Computing @ NUS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weizart&label=Profile%20views&color=0e75b6&style=flat" alt="weizart" /> </p>
 
