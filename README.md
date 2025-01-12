@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziang</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!;I+am+Wei+Ziang.;A+Software+Developer;A+Data+Engineer;A+Travler.)](https://git.io/typing-svg)
 <h3 align="center">Master of Computing @ NUS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weizart&label=Profile%20views&color=0e75b6&style=flat" alt="weizart" /> </p>
