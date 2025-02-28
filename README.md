@@ -10,7 +10,7 @@
     <p>Master of Computing @ NUS👨‍🎓</p>
     <p>🌟 Have a Nice day! 🌟</p>
 </div>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weizart&no-bg=true&rank=-C&raw=1" alt="weizart" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=weizart&no-bg=true&raw=2" alt="weizart" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weizart&show_icons=true&locale=en&layout=compact" alt="weizart" /></p>
 
