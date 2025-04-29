@@ -34,14 +34,14 @@
   </a>
 </p>
   <!--
-  <a href="https://github.com/TongWu">
+  <a href="https://github.com/weizart">
     <img align="center"
          height="150em"
          src="https://github-readme-stats.vercel.app/api/wakatime?username=weizart&layout=default&theme=light&langs_count=10&count_private=true&include_all_commits=true" />
   </a>
 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql,redis,mongodb,kafka,selenium,matlab,pytorch,tensorflow,docker,postman,linux&theme=light" alt="exasic logo" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,postgresql,redis,mongodb,kafka,selenium,postman,matlab,pytorch,tensorflow,docker,kubernetes,linux&theme=light" alt="exasic logo" />
 </p>
 <p align="center">
   <a href="https://github.com/weizart">
