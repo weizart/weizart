@@ -10,20 +10,17 @@
     <p>Master of Computing @ NUS👨‍🎓</p>
     <p>🌟 Have a Nice day! 🌟</p>
 </div>
-<p>
-  <a href="https://wakatime.com/@4e43b44f-429e-4c01-b2e3-4e932baefd36"><img src="https://wakatime.com/badge/user/4e43b44f-429e-4c01-b2e3-4e932baefd36.svg" alt="Total time coded since Apr 11 2023" /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/weizart">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=Weizart&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&hide=prs,issues&hide_rank=true" />
+         src="https://github-readme-stats.vercel.app/api?username=Weizart&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0D1117&hide=prs,issues&hide_rank=true" />
   </a>
   <a href="https://github.com/weizart">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=Weizart&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact&hide=jupyter%20notebook,html" />
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=Weizart&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0D1117&layout=compact&hide=jupyter%20notebook,html" />
   </a>
 </p>
 
