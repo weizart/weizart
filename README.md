@@ -41,7 +41,7 @@
   </a>
 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,postgresql,redis,mongodb,kafka,selenium,postman,matlab,pytorch,tensorflow,docker,kubernetes,linux&theme=light" alt="exasic logo" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,postgresql,redis,mongodb,kafka,selenium,postman,matlab,pytorch,tensorflow,docker,kubernetes,linux&theme=light" alt="exasic logo" />
 </p>
 <p align="center">
   <a href="https://github.com/weizart">
