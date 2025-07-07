@@ -15,7 +15,7 @@
   <a href="https://github.com/weizart">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=Weizart&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide=stars&hide_rank=true" />
+         src="https://github-readme-stats.vercel.app/api?username=Weizart&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_rank=true" />
   </a>
   <a href="https://github.com/weizart">
     <img align="center"
