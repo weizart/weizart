@@ -7,7 +7,7 @@
 <hr>
 
 <div align="center">
-    <p>Master of Computing @ NUS👨‍🎓</p>
+    <p>DE@Tencent Singapore</p>
     <p>🌟 Have a Nice day! 🌟</p>
 </div>
 
